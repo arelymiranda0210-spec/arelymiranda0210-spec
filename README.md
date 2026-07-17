@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Arely Miranda
 
-<!--
-**arelymiranda0210-spec/arelymiranda0210-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌸⭐ Sobre mí
+Soy estudiante de Tercer año Bachillerato en Desarrollo de Software.
+Me gusta aprender programación, diseño web y crear proyectos con HTML, CSS, PHP y MySQL.
 
-Here are some ideas to get you started:
+## 🎯 Actualmente
+- 📚 Estudiando Desarrollo de Software.
+- 🚀 Creando proyectos web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📫 Contacto
+
+- 📧 Correo: arelymiranda0210@gmail.com
+
+---
+
+⭐ Gracias por visitar mi perfil.
+
+
+
+
+
+⭐ Gracias por visitar mi perfil.
