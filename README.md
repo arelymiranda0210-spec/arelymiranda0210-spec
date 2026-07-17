@@ -24,8 +24,3 @@ Me gusta aprender programación, diseño web y crear proyectos con HTML, CSS, PH
 
 ⭐ Gracias por visitar mi perfil.
 
-
-
-
-
-⭐ Gracias por visitar mi perfil.
